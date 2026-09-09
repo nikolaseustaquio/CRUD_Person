@@ -52,7 +52,7 @@ CREATE TABLE pessoa (
 
 ### Passos
 ```bash
-git clone https://github.com/[seu-usuario]/VoltaPraticas.git
+git clone https://github.com/nikolaseustaquio/VoltaPraticas.git
 cd VoltaPraticas
 ```
 Abra no IntelliJ IDEA e execute a classe `Main.java`.
